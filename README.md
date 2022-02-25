@@ -1,36 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Whoever Designs
 
-You can use the [editor on GitHub](https://github.com/WhoeverDesigns/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Brand new small company and lets start off by introducing the idea of the MLP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![MVP_VS_MinLoveableProduct](README.assets/MVP_VS_MinLoveableProduct.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+The first lovable product is going to be the [Switchbox](https://github.com/andyle9191/Wire-Less_SwitchBox)
 
-- Bulleted
-- List
+A way of controlling automotive power. 
 
-1. Numbered
-2. List
+it's a little computer that can enhance the way that vehicles are wired. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WhoeverDesigns/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* it's open. program it to do whatever you want.
+* It's durable. Electrically and physically. 
+* It's powerful. Control real amounts of power, >5a X16ch
+* It's smart. Intergrated sensors, measure voltages, currents, movements, locations, 
+* Works on a variety of voltages, 5-23v. You can even power it from a USB PD charger if you want. (Laptop charger)
 
 ### Support or Contact
 
