@@ -20,6 +20,8 @@ it's a little computer that can enhance the way that vehicles are wired.
 * It's smart. Intergrated sensors, measure voltages, currents, movements, locations, 
 * Works on a variety of voltages, 5-23v. You can even power it from a USB PD charger if you want. (Laptop charger)
 
-### Support or Contact
+----
+
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
